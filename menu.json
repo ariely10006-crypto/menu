@@ -1,6 +1,6 @@
 {
-  "updatedAt": 1789194248375,
-  "validWeekStart": "2026-09-10",
+  "updatedAt": 1789194443115,
+  "validWeekStart": "2026-09-14",
   "menu": {
     "週一": [
       {
@@ -86,7 +86,7 @@
         "price": 65
       },
       {
-        "name": "黑胡椒豬排會販",
+        "name": "黑胡椒豬排會飯",
         "price": 65
       }
     ],
